@@ -1,0 +1,7 @@
+.env
+venv/
+__pycache__/
+*.pyc
+travel_history.db
+trip_plan.json
+.streamlit/secrets.toml
